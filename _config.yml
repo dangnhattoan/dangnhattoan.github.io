@@ -23,20 +23,19 @@ email: dangnhattoan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Embedded dev insights
 author: "Toan Dang"
+encoding: UTF-8
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
+github_username:  dangnhattoan
+linkedin_username: toan-dang-emb
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-minima:
-  skin: dark
-  social_links:
-    github_username:  dangnhattoan
-    linkedin_username: toan-dang-emb
+skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
